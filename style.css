@@ -43,23 +43,23 @@ h1 {
     font-family: Times;
     width: 1000px;
     position: absolute;
-    top: 15%;
+    top: 10%;
     left: 20.5%;
 }
 
 #lop {
     font-size: 60px;
     position: absolute;
-    top: 50%;
-    left: 30%;
+    top: 34%;
+    left: 44.5%;
     animation: rainbow 2s ease infinite;
 }
 
 #gv {
     font-size: 60px;
     position: absolute;
-    top: 50%;
-    left: 58.5%;
+    top: 68%;
+    left: 36%;
     animation: rainbow 2s ease infinite;
 }
 
